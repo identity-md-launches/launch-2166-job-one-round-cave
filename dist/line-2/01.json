@@ -1,0 +1,30 @@
+{
+  "name": "The Hidden Fork",
+  "image": "https://api.imd.fun/artifacts/bbfaf918e2d559acacaafc9ff505318aae0120d442cac574ee42d163010692e0",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Roots"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 2"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Unicode Lantern"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe reveals a hidden fork in a trail that first appeared to have only one reading."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Expose deceptive Unicode with reviewable evidence"
+    }
+  ]
+}

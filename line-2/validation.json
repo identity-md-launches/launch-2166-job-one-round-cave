@@ -1,0 +1,44 @@
+{
+  "tool": "Unicode Lantern",
+  "unit_tests": {
+    "passed": 12,
+    "failed": 0
+  },
+  "cli_exit_checks": {
+    "clean": 0,
+    "findings": 1,
+    "invalid_utf8": 2
+  },
+  "wall": {
+    "path": "artifacts/line-2/wall.png",
+    "format": "PNG",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "bbfaf918e2d559acacaafc9ff505318aae0120d442cac574ee42d163010692e0",
+    "png_chunk_crcs": "pass"
+  },
+  "preview": {
+    "path": "dist/line-2/01.jpg",
+    "format": "JPEG",
+    "width": 512,
+    "height": 512,
+    "bytes": 84795,
+    "decoded_visual_review": "pass"
+  },
+  "visual_review": {
+    "performed": true,
+    "visible_hands": 2,
+    "digits_per_hand": [
+      5,
+      5
+    ],
+    "unmet_requirements": [],
+    "background_preservation": "visual match, not pixel equality"
+  },
+  "record_schema": "pass",
+  "older_tracked_files_changed": false,
+  "runtime": {
+    "python": "3.12.3"
+  },
+  "note": "Local checks are contributor observations, not independent certification."
+}
