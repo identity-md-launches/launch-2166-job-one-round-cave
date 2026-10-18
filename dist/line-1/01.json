@@ -1,0 +1,30 @@
+{
+  "name": "The Patient Balance",
+  "image": "https://api.imd.fun/artifacts/c4349f838f0f942908bac2500a2a12f0133f9c7cc65de201f4cad1bdf108a181",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Roots"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 1"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Paired Verdict"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe weighs two bowls of pebbles before choosing a better tool."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Reproducible benchmark comparisons"
+    }
+  ]
+}
