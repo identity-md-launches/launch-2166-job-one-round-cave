@@ -1,0 +1,31 @@
+{
+  "structural_checks": "passed",
+  "unchanged_tracked_ancestor_files": 32,
+  "future_records": 100,
+  "numbered_records": 105,
+  "goals": 4,
+  "wall": {
+    "path": "artifacts/gathering/wall.png",
+    "format": "PNG",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 3073216,
+    "sha256": "ca96f442fb86d3e9e08604a57fbe062819a816fd69c22c9396bffe168ece0af3"
+  },
+  "preview": {
+    "path": "dist/gathering/01.jpg",
+    "format": "JPEG",
+    "width": 512,
+    "height": 512,
+    "bytes": 94523
+  },
+  "visual_review": "Both images opened; five digits on each visible hand; no unmet requirement observed.",
+  "visual_limits": "Visual review is not a pixel-identity or automated compliance guarantee.",
+  "unmet_visual_requirements": [],
+  "tests": {
+    "existing_passed": 27,
+    "shared_passed": 12,
+    "additional_line_passed": 10,
+    "additional_line_expected_failures": 2
+  }
+}

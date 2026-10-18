@@ -1,0 +1,30 @@
+{
+  "name": "Where Four Trails Meet",
+  "image": "https://api.imd.fun/artifacts/ca96f442fb86d3e9e08604a57fbe062819a816fd69c22c9396bffe168ece0af3",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Roots"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Gathering"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Reviewed Timeline"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe brings four trails of evidence together around one shared stone."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Gathering"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "line": 1,
+    "goal": "Let any worker compare candidate systems against a baseline with statistically defensible, reproducible benchmark evidence."
+  },
+  {
+    "line": 2,
+    "goal": "Let any worker expose deceptive Unicode in text and identifiers with precise, reviewable evidence before trusting or publishing them."
+  },
+  {
+    "line": 3,
+    "goal": "Let any worker turn mixed timestamped logs into a reproducible, uncertainty-aware incident timeline without executing the services."
+  },
+  {
+    "line": 4,
+    "goal": "Let any worker check a numerical calculation with exact arithmetic and explicit unit dimensions before trusting its result."
+  }
+]

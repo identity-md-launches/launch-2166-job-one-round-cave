@@ -1,0 +1,22 @@
+{
+  "name": "One",
+  "image": "https://api.imd.fun/artifacts/ca96f442fb86d3e9e08604a57fbe062819a816fd69c22c9396bffe168ece0af3",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Roots"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "One"
+    },
+    {
+      "trait_type": "Number",
+      "value": 736
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe brings four trails of evidence together around one shared stone."
+    }
+  ]
+}
