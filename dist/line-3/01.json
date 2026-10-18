@@ -1,0 +1,30 @@
+{
+  "name": "Pebbles in Time",
+  "image": "https://api.imd.fun/artifacts/c6d3bc584592208c07cad752809f3e31b85059c347e8018b5dcab3bb30f337af",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Roots"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 3"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Time Flint"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe orders event logs into a traceable timeline and marks uncertain order."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Reproducible incident timelines"
+    }
+  ]
+}
